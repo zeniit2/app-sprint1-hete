@@ -43,3 +43,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# variaveis de ambiente locais (EXPO_PUBLIC_API_URL)
+.env
